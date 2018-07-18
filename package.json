@@ -1,0 +1,23 @@
+{
+  "name": "vue-qq-server",
+  "version": "1.0.0",
+  "description": "vue-qq项目用到的socket.io服务端",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cocos3ds/vue-qq-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cocos3ds/vue-qq-server/issues"
+  },
+  "homepage": "https://github.com/cocos3ds/vue-qq-server#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.1.1"
+  }
+}
